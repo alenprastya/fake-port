@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b2bd6971212993.5bbdba048dad4.jpg",
+      "author": "Alen Prastya",
+      "link": "https://react-bootstrap.netlify.app/about/#external-links",
+      "date": "22 Januari 2022"
+    },
+    {
+      "id": 7,
+      "title": "json-server",
+      "image": "https://media1.thehungryjpeg.com/thumbs2/ori_11510_e30ecd29d4360f4836cf36885c23116900b3c290_creative-portfolio.jpg",
+      "author": "Alen Prastya",
+      "link": "https://react-bootstrap.netlify.app/about/#external-links",
+      "date": "22 Januari 2022"
+    },
+    {
+      "title": "Tiba Tiba ngising",
+      "author": "Rina Juliyanti",
+      "image": "https://media1.thehungryjpeg.com/thumbs2/ori_44683_d83059469a5c665d62121b6d6bc115f487e6ea31_portfolio-design.jpg",
+      "date": "20 April 2022",
+      "id": 2
+    },
+    {
+      "title": "Jatuh dari pohon Pisang",
+      "author": "Tabah Ajun Prastya",
+      "image": "https://www.saleen.com/wp-content/uploads/2019/10/Saleen-GT4-Concept-Rendering-Profile-scaled.jpg",
+      "date": "20 Mei 2022",
+      "id": 3
+    },
+    {
+      "title": "Sayang seribu Sayang",
+      "author": "Hanas Setiawan Jati",
+      "image": "https://img.nbc.com/sites/nbcunbc/files/images/2014/4/11/doble_0013.JPG",
+      "date": "10 April 2022",
+      "id": 4
+    },
+    {
+      "title": "Kiat - Kiat Belajar pemrorgaman",
+      "author": "Alen Prastya",
+      "image": "https://www.belajarcpp.com/wp-content/uploads/2021/01/thumbnails2.png",
+      "date": "7 July 2022",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
